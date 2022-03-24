@@ -1,0 +1,39 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+asttokens = "*"
+backcall = "*"
+debugpy = "*"
+decorator = "*"
+entrypoints = "*"
+executing = "*"
+ipykernel = "*"
+ipython = "*"
+jedi = "*"
+jupyter-client = "*"
+jupyter-core = "*"
+matplotlib-inline = "*"
+nest-asyncio = "*"
+parso = "*"
+pexpect = "*"
+pickleshare = "*"
+prompt-toolkit = "*"
+psutil = "*"
+ptyprocess = "*"
+pure-eval = "*"
+python-dateutil = "*"
+pyzmq = "*"
+six = "*"
+stack-data = "*"
+tornado = "*"
+traitlets = "*"
+wcwidth = "*"
+Pygments = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"

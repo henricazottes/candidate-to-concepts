@@ -32,6 +32,7 @@ tornado = "*"
 traitlets = "*"
 wcwidth = "*"
 Pygments = "*"
+pymupdf = "*"
 
 [dev-packages]
 

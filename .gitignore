@@ -2,3 +2,4 @@ __pycache__/
 data/generated/*
 .ipynb_checkpoints/
 .ipynb_checkpoints/*
+model/*

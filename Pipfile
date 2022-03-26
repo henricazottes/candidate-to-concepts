@@ -34,6 +34,7 @@ wcwidth = "*"
 Pygments = "*"
 pymupdf = "*"
 requests = "*"
+beautifulsoup4 = "*"
 
 [dev-packages]
 

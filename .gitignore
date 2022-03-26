@@ -1,2 +1,3 @@
 __pycache__/
 data/generated/*
+.ipynb_checkpoints/

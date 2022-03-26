@@ -33,6 +33,7 @@ traitlets = "*"
 wcwidth = "*"
 Pygments = "*"
 pymupdf = "*"
+requests = "*"
 
 [dev-packages]
 
